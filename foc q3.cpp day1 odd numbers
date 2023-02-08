@@ -2,7 +2,7 @@
 int main() 
 {
 	int i,n;
-	printf("Even number series:\n");
+	printf("Odd number series:\n");
 	scanf("%d",&n);
 	for (i = 1; i <= n; i++) 
 	{
